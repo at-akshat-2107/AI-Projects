@@ -20,7 +20,7 @@ Each project is well-documented and structured to help AI enthusiasts, developer
 
 ## 📂 Projects List  
 
-### **1. Finicial Docs Scanner**  
+### **1. Finicial AI Scanner**  
 🔗 [View Project](https://github.com/at-akshat-2107/AI-Projects/tree/main/AI-Code-Reviewer)  
 **Description:** AI-powered tool for reviewing and optimizing Python, JavaScript, and TypeScript code, integrating **explainable AI** and **LangChain's RAG system**.
 
