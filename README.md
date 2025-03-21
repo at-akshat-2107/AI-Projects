@@ -21,7 +21,7 @@ Each project is well-documented and structured to help AI enthusiasts, developer
 ## 📂 Projects List  
 
 ### **1. Finicial AI Scanner**  
-🔗 [View Project]([https://github.com/at-akshat-2107/AI-Projects/tree/main/AI-Code-Reviewer](https://github.com/at-akshat-2107/AI-Projects/tree/master/Finicial%20AI%20Scanner)  
+🔗 [View Project](https://github.com/at-akshat-2107/AI-Projects/tree/main/AI-Code-Reviewer](https://github.com/at-akshat-2107/AI-Projects/tree/master/Finicial%20AI%20Scanner)  
 **Description:** A powerful AI-powered application that analyzes financial documents and images to extract insights, trends, and key metrics. Built with Streamlit and powered by Groq's LLAMA 3.2 Vision 90B LLM API, this tool helps financial professionals and decision-makers quickly understand complex financial documents..
 
 ### **2. Automated Test Case Generation using Gen AI**  
