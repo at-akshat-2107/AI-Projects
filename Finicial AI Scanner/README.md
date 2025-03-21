@@ -15,7 +15,6 @@ A powerful AI-powered application that analyzes financial documents and images t
 
 ## 📋 Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -23,12 +22,8 @@ A powerful AI-powered application that analyzes financial documents and images t
 - [Technologies Used](#technologies-used)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
-## 🎥 Demo
-
-[Add your demo GIF or screenshot here]
 
 ## 🚀 Installation
 
@@ -186,19 +181,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/financial-ai-scanner](https://github.com/yourusername/financial-ai-scanner)
-
-## 🙏 Acknowledgments
-
-- Groq API for providing the LLM service
-- Streamlit team for the excellent web framework
-- Tesseract OCR team for the powerful text extraction tool
-- All contributors and users of this project 
+**Akshat Mehta**
+- Email: at.akshat.mehta.2107@gmail.com 
